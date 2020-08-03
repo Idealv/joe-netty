@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe49c0ea-f0eb-4562-b9cf-637a5c4d7c4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="joe-netty" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\joe_repo" />
+        <option name="mavenHome" value="C:/apache-maven-3.2.5" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.2.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UT0wC6yEqRGMOHwvnc4gb20SU5" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.140625" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.splitter.proportion" value="0.2895005" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.joe.im.util" />
+      <recent name="com.joe.im.redis" />
+      <recent name="com.joe.im.demo.distributedLock" />
+      <recent name="com.joe.im.demo" />
+      <recent name="com.joe.ch8" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\code\joe-netty\im-common\src\main\resources\proto" />
+      <recent name="C:\code\joe-netty\im-client\src\main\java\com\joe\client" />
+      <recent name="C:\code\joe-netty\im-common\src\main\java\com\joe" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JsonUtil">
+    <configuration name="JsonUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.joe.im.util.JsonUtil" />
+      <module name="im-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joe.im.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CacheOpTest.testKeys" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="im-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joe.im.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.joe.im.redis" />
+      <option name="MAIN_CLASS_NAME" value="com.joe.im.redis.CacheOpTest" />
+      <option name="METHOD_NAME" value="testKeys" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContextTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="im-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joe.im.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.joe.im" />
+      <option name="MAIN_CLASS_NAME" value="com.joe.im.ContextTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IDMakerTest.makeId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="im-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joe.im.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.joe.im.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="com.joe.im.zookeeper.IDMakerTest" />
+      <option name="METHOD_NAME" value="makeId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZKLockTest.testLock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="im-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joe.im.zookeeper.distributedLock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.joe.im.zookeeper.distributedLock" />
+      <option name="MAIN_CLASS_NAME" value="com.joe.im.zookeeper.distributedLock.ZKLockTest" />
+      <option name="METHOD_NAME" value="testLock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JoeClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="im-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.joe.JoeClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JoeServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="im-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.joe.JoeServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JsonUtil" />
+      <item itemvalue="JUnit.IDMakerTest.makeId" />
+      <item itemvalue="JUnit.ZKLockTest.testLock" />
+      <item itemvalue="JUnit.CacheOpTest.testKeys" />
+      <item itemvalue="JUnit.ContextTest.test" />
+      <item itemvalue="Spring Boot.JoeClientApplication" />
+      <item itemvalue="Spring Boot.JoeServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JsonUtil" />
+        <item itemvalue="JUnit.ContextTest.test" />
+        <item itemvalue="JUnit.CacheOpTest.testKeys" />
+        <item itemvalue="JUnit.ZKLockTest.testLock" />
+        <item itemvalue="JUnit.IDMakerTest.makeId" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.29991716" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe49c0ea-f0eb-4562-b9cf-637a5c4d7c4c" name="Default Changelist" comment="" />
+      <created>1575365513295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575365513295</updated>
+      <workItem from="1575365514795" duration="130000" />
+      <workItem from="1575367582236" duration="40000" />
+      <workItem from="1575368365493" duration="488000" />
+      <workItem from="1575370239122" duration="1359000" />
+      <workItem from="1575372167491" duration="56000" />
+      <workItem from="1575372812479" duration="1719000" />
+      <workItem from="1575542684530" duration="47000" />
+      <workItem from="1577441507527" duration="8009000" />
+      <workItem from="1577514075996" duration="29000" />
+      <workItem from="1577518071536" duration="9000" />
+      <workItem from="1577518159016" duration="7000" />
+      <workItem from="1577519124810" duration="58000" />
+      <workItem from="1578394451837" duration="489000" />
+      <workItem from="1578561345823" duration="45000" />
+      <workItem from="1578566414974" duration="1293000" />
+      <workItem from="1578567735948" duration="4968000" />
+      <workItem from="1578572824388" duration="1740000" />
+      <workItem from="1578658508833" duration="736000" />
+      <workItem from="1578659289849" duration="111000" />
+      <workItem from="1578659431080" duration="1679000" />
+      <workItem from="1578726050096" duration="6090000" />
+      <workItem from="1579251937169" duration="5234000" />
+      <workItem from="1579358713287" duration="13000" />
+      <workItem from="1579364124986" duration="2230000" />
+      <workItem from="1579422482256" duration="192000" />
+      <workItem from="1579514479895" duration="1087000" />
+      <workItem from="1579517344040" duration="4264000" />
+      <workItem from="1579536786038" duration="17000" />
+      <workItem from="1579536832450" duration="1966000" />
+      <workItem from="1579701682729" duration="1009000" />
+      <workItem from="1579707651928" duration="5005000" />
+      <workItem from="1579774804439" duration="598000" />
+      <workItem from="1579788921014" duration="2778000" />
+      <workItem from="1579791782778" duration="681000" />
+      <workItem from="1579956225469" duration="95000" />
+      <workItem from="1579959403898" duration="1942000" />
+      <workItem from="1580035171672" duration="2304000" />
+      <workItem from="1580037504570" duration="144000" />
+      <workItem from="1580037680239" duration="6434000" />
+      <workItem from="1580117091306" duration="37000" />
+      <workItem from="1580123901795" duration="3205000" />
+      <workItem from="1580136936931" duration="103000" />
+      <workItem from="1580139138562" duration="1725000" />
+      <workItem from="1580205254300" duration="2163000" />
+      <workItem from="1580216684389" duration="9057000" />
+      <workItem from="1580267607416" duration="16000" />
+      <workItem from="1580289297995" duration="8645000" />
+      <workItem from="1580300406190" duration="11062000" />
+      <workItem from="1580314946142" duration="5000" />
+      <workItem from="1580377852516" duration="47000" />
+      <workItem from="1580382207523" duration="6941000" />
+      <workItem from="1580395155469" duration="5693000" />
+      <workItem from="1580441580494" duration="31000" />
+      <workItem from="1580473726253" duration="5490000" />
+      <workItem from="1580482702607" duration="14000" />
+      <workItem from="1580482867180" duration="12000" />
+      <workItem from="1580552573277" duration="7151000" />
+      <workItem from="1580566447727" duration="1755000" />
+      <workItem from="1580645084428" duration="10000" />
+      <workItem from="1580649341885" duration="8228000" />
+      <workItem from="1580734395570" duration="6457000" />
+      <workItem from="1580740994946" duration="901000" />
+      <workItem from="1580741903296" duration="1042000" />
+      <workItem from="1580743041651" duration="236000" />
+      <workItem from="1580743284639" duration="291000" />
+      <workItem from="1580743578031" duration="1162000" />
+      <workItem from="1580745828179" duration="2184000" />
+      <workItem from="1580748130924" duration="345000" />
+      <workItem from="1580748633195" duration="1568000" />
+      <workItem from="1580818359022" duration="11000" />
+      <workItem from="1580905957455" duration="19065000" />
+      <workItem from="1580992053498" duration="10000" />
+      <workItem from="1581527270177" duration="4112000" />
+      <workItem from="1581596078621" duration="14000" />
+      <workItem from="1581596126739" duration="29000" />
+      <workItem from="1584802133768" duration="64000" />
+      <workItem from="1585026983335" duration="16000" />
+      <workItem from="1591934963233" duration="165000" />
+      <workItem from="1591935181725" duration="13000" />
+      <workItem from="1595340480001" duration="358000" />
+      <workItem from="1595429581976" duration="1548000" />
+      <workItem from="1595512964800" duration="7915000" />
+      <workItem from="1595847786573" duration="47000" />
+      <workItem from="1595946534547" duration="310000" />
+      <workItem from="1596470566677" duration="414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1596470643441">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1596470643441" />
+    <state width="1237" height="388" key="GridCell.Tab.0.bottom" timestamp="1595514550886">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="388" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1595514550886" />
+    <state width="1237" height="388" key="GridCell.Tab.0.center" timestamp="1595514550886">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="388" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1595514550886" />
+    <state width="1237" height="388" key="GridCell.Tab.0.left" timestamp="1595514550886">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="388" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1595514550886" />
+    <state width="1237" height="388" key="GridCell.Tab.0.right" timestamp="1595514550886">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="388" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1595514550886" />
+    <state x="412" y="79" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595514275045">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="412" y="79" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.720@0.0.1280.720" timestamp="1595514275045" />
+    <state width="762" height="405" key="javadoc.popup.new" timestamp="1595514667957">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="762" height="405" key="javadoc.popup.new/0.0.1280.720@0.0.1280.720" timestamp="1595514667957" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1595946806196">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1595946806196" />
+  </component>
+</project>

@@ -1,0 +1,75 @@
+syntax="proto3";
+package com.joe.im.common.bean.msg;
+
+enum HeadType{
+    LOGIN_REQUEST=0;
+    LOGIN_RESPONSE=1;
+    LOGOUT_REQUEST=2;
+    LOGOUT_RESPONSE=3;
+    HEART_BEAT=4;
+    MESSAGE_REQUEST=5;
+    MESSAGE_RESPONSE=6;
+    MESSAGE_NOTIFICATION=7;
+}
+
+message LoginRequest{
+    string uid=1;
+    string deviceId=2;
+    string token=3;
+    uint32 platform=4;
+    string appVersion=5;
+}
+
+message LoginResponse{
+    bool result=1;
+    uint32 code=2;
+    string info=3;
+    uint32 expose=4;
+}
+
+message MessageRequest{
+    uint64 msgId=1;
+    string from=2;
+    string to=3;
+    uint64 time=4;
+    uint32 msgType=5;
+    string content=6;
+    string url=7;
+    string property=9;
+    string fromNick=10;
+    string json=11;
+}
+
+message MessageResponse{
+    bool result=1;
+    uint32 code=2;
+    string info=3;
+    uint32 expose=4;
+    bool lastBlock=5;
+    fixed32 blockIndex=6;
+}
+
+message MessageNotification{
+    uint32 msgType=1;
+    bytes sender=2;
+    string json=3;
+    string timestamp=4;
+}
+
+message MessageHeartBeat {
+    uint32   seq = 1;
+    string   uid = 2;
+    string   json =3;
+}
+
+message Message{
+    HeadType type=1;
+    uint64 sequence=2;
+    string sessionId=3;
+    LoginRequest loginRequest=4;
+    LoginResponse loginResponse=5;
+    MessageRequest messageRequest=6;
+    MessageResponse messageResponse=7;
+    MessageNotification messageNotification=8;
+    MessageHeartBeat messageHeartBeat=9;
+}
